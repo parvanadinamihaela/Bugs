@@ -1,4 +1,4 @@
-###Test-cases-sample###
+###Bugs sample###
 
 
 Below are some bugs that I find during the previous QA course.
